@@ -1,4 +1,4 @@
-### Hey, I am Vedad 👋
+### Hey, I am Vedo 👋
 - 🌱 Learning CSS, JS, HTML and Lua
 
 **Langs and Tools**
